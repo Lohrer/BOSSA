@@ -45,3 +45,10 @@ The following individuals and companies graciously provided development boards t
  * Atmel Corporation (SAM3N, SAM3S, SAM3U)
  * David Crocker (SAM4E, SAM4S)
  * Adafruit Industries (SAMD21, SAMD51)
+
+Building
+--------
+On Ubuntu 18.04 the dependencies libwxgtk-dev and libreadline-dev will need to be installed.
+```
+sudo apt install libwxgtk3.0-dev libreadline-dev
+```
